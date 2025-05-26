@@ -1,0 +1,16 @@
+names:
+- Cigarette
+- Drinking
+- Eating
+- Phone
+- Seatbelt
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: driver-behavior-wc25q
+  url: https://universe.roboflow.com/aoop-vgwve/driver-behavior-wc25q/dataset/4
+  version: 4
+  workspace: aoop-vgwve
+test: ../test/images
+train: ../train/images
+val: ../valid/images
